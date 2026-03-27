@@ -11,12 +11,16 @@ This is the official repository for the SIGGRAPH Asia 2025 paper "WorldExplorer:
 If you find WorldExplorer useful for your work please consider giving a star ⭐️ and citing:
 
 ```
-@InProceedings{schneider_hoellein_2025_worldexplorer,
-    title={WorldExplorer: Towards Generating Fully Navigable 3D Scenes},
-    author={Schneider, Manuel-Andreas and H{\"o}llein, Lukas and Nie{\ss}ner, Matthias},
-    booktitle={SIGGRAPH Asia 2025 Conference Papers},
-    pages={1--11},
-    year={2025}
+@inproceedings{schneider_hoellein_2025_worldexplorer,
+  author    = {Schneider, Manuel-Andreas and H\"{o}llein, Lukas and Nie\ss{}ner, Matthias},
+  title     = {{WorldExplorer}: Towards Generating Fully Navigable {3D} Scenes},
+  booktitle = {Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+  year      = {2025},
+  publisher = {Association for Computing Machinery},
+  url       = {https://doi.org/10.1145/3757377.3763946},
+  doi       = {10.1145/3757377.3763946},
+  pages     = {1--11},
+  series    = {SA Conference Papers '25}
 }
 ```
 
